@@ -5,17 +5,37 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "meridian-context-compression"
 version = "0.1.0"
-description = "LLM context compression utilities"
-license = {text = "MIT"}
+description = "LLM context compression utilities for AI agent pipelines"
 readme = "README.md"
-requires-python = ">=3.8"
+license = {text = "MIT"}
 authors = [{name = "Meridian"}]
-dependencies = ["numpy>=1.22; python_version>='3.8'", "tiktoken"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "numpy>=1.22; python_version>='3.8'",
+    "tiktoken",
+]
 
-[project.urls]
-Homepage = "https://github.com/meridianmindx/meridian-context-compression"
-Repository = "https://github.com/meridianmindx/meridian-context-compression.git"
-Documentation = "https://github.com/meridianmindx/meridian-context-compression#readme"
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=23.0",
+]
 
 [project.scripts]
 meridian-context-compression = "meridian_context_compression.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/meridianmindx/meridian-context-compression"
+Documentation = "https://github.com/meridianmindx/meridian-context-compression#readme"
+Repository = "https://github.com/meridianmindx/meridian-context-compression.git"
