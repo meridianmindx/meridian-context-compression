@@ -13,4 +13,9 @@ authors = [{name = "Meridian"}]
 dependencies = ["numpy>=1.22; python_version>='3.8'", "tiktoken"]
 
 [project.urls]
-Homepage = "https://github.com/meridiantools/context-compression"
+Homepage = "https://github.com/meridianmindx/meridian-context-compression"
+Repository = "https://github.com/meridianmindx/meridian-context-compression.git"
+Documentation = "https://github.com/meridianmindx/meridian-context-compression#readme"
+
+[project.scripts]
+meridian-context-compression = "meridian_context_compression.cli:main"
