@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: context_compression
+Version: 0.1.0
+Summary: Context compression utilities for AI agents
+Project-URL: Homepage, https://github.com/context-agent/context-compression

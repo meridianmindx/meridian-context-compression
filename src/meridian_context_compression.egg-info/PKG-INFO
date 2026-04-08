@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: meridian-context-compression
+Version: 0.1.0
+Summary: LLM context compression utilities
+Author: Meridian
+License: MIT
+Project-URL: Homepage, https://github.com/meridiantools/context-compression
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.22; python_version >= "3.8"
+Requires-Dist: tiktoken
+
+# meridiantools: $dir
+Placeholder to seed repository.
+Unused; will be overwritten on first publication.

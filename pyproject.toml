@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "meridian-context-compression"
+version = "0.1.0"
+description = "LLM context compression utilities"
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "Meridian"}]
+dependencies = ["numpy>=1.22; python_version>='3.8'", "tiktoken"]
+
+[project.urls]
+Homepage = "https://github.com/meridiantools/context-compression"
