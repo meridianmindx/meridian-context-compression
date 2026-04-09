@@ -3,6 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/meridian-context-compression.svg)](https://pypi.org/project/meridian-context-compression/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml)
+[![Support Ethereum - 0x3B3aD666744F1A96A55f7ef530C27cf694193f10](https://img.shields.io/badge/Support_Ethereum-0x3B3aD666744F1A96A55f7ef530C27cf694193f10-343493?logo=ethereum)](https://etherscan.io/address/0x3B3aD666744F1A96A55f7ef530C27cf694193f10)
 
 **LLM context compression utilities for AI agent pipelines.** Reduce token usage while preserving semantic meaning.
 
@@ -38,7 +39,7 @@ print(f"Reduced from {len(text)} to {len(compressed)} tokens")
 ## Development
 
 ```bash
-pip install -e ".[dev]"
+pip install -e \".[dev]\"
 pytest
 ```
 
