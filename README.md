@@ -2,6 +2,15 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/meridian-context-compression.svg)](https://pypi.org/project/meridian-context-compression/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml) [![PyPI downloads](https://img.shields.io/pypi/dm/meridian-context-compression.svg)](https://pypi.org/project/meridian-context-compression/) [![GitHub stars](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression.svg?style=social)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
 
+
+<div align="center">
+
+[![⭐ Star this repo](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression.svg?style=social)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
+
+**⭐ Star us on GitHub!** — Help others discover this tool.
+
+</div>
+
 **Reduce LLM token usage while preserving meaning.** Context compression utilities for AI agent pipelines. Achieve significant cost savings on OpenAI and Anthropic APIs with intelligent compression strategies.
 
 ## ⭐ Why this matters
