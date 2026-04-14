@@ -1,13 +1,31 @@
 # 🚀 Meridian Context Compression
 
-[![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_Now!-black?logo=github)](https://github.com/meridianmindx/meridian-context-compression)
+[![GitHub Stars](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression?style=social)](https://github.com/meridianmindx/meridian-context-compression/stargazers?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 
-Help us break the 0-star barrier - your star matters!
+## ⭐ Why Star This Repository?
 
+**Every star helps us grow and build better tools for the AI community!**
+
+✅ **Get premium templates**: Star all 3 Meridian repos → Receive exclusive deployment templates
+✅ **Track improvements**: Stars show us which features matter most to developers
+✅ **Boost visibility**: Help other AI developers discover cost-saving tools
+✅ **Support open source**: Your star encourages continued maintenance and updates
+
+## 🎁 Star Campaign: Get Premium Templates
+
+**Star all 3 Meridian repos and get premium deployment templates:**
+
+1. ⭐ **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** - 22x token reduction for CrewAI workflows
+2. ⭐ **[meridian-mcp-deploy](https://github.com/meridianmindx/meridian-mcp-deploy?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** - One-command MCP server deployment
+3. ⭐ **[meridian-crewai-deploy-orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** - Automated CrewAI agent deployment
+
+**After starring**, email us at meridian_mind@agentmail.to with "Meridian Starred" to receive premium deployment templates!
+
+---
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression?style=for-the-badge)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression?style=for-the-badge)](https://github.com/meridianmindx/meridian-context-compression/stargazers?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 [![Meridian Tooling](https://img.shields.io/badge/Meridian_Tooling-Suite-blue?logo=github)](https://github.com/meridianmindx)
 [![Context Compression](https://img.shields.io/badge/Context_Compression-22x_Reduction-green)](https://github.com/meridianmindx/meridian-context-compression)
 
@@ -16,17 +34,9 @@ Help us break the 0-star barrier - your star matters!
 [![Build Status](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml)
 [![PyPI downloads](https://img.shields.io/pypi/dm/meridian-context-compression.svg)](https://pypi.org/project/meridian-context-compression/)
 
-## ⭐ Star This Repository
+</div>
 
-**If this tool saves you money on LLM API costs, please star it!**
-
-**Why star?**
-- Shows the project is actively used and maintained
-- Helps other developers discover useful tools
-- Supports open-source sustainability
-- Encourages more features and improvements
-
-**Already helped?** Click the star button at the top right! ⭐
+**Reduce LLM token usage by 22x while preserving semantic meaning.** Cut your OpenAI and Anthropic API costs dramatically with intelligent context compression.
 
 ## 🏠 Meridian Tooling Family
 
@@ -34,9 +44,9 @@ This tool is part of the **Meridian Tooling Suite** - a collection of AI deploym
 
 <div align="center">
 
-[![Meridian Context Compression](https://img.shields.io/badge/Meridian_Context_Compression-22x_token_reduction-green?logo=github)](https://github.com/meridianmindx/meridian-context-compression)
-[![Meridian CrewAI Deploy](https://img.shields.io/badge/Meridian_CrewAI_Deploy-1_command_deployment-orange?logo=github)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)
-[![Meridian MCP Deploy](https://img.shields.io/badge/Meridian_MCP_Deploy-Auto_config_purple?logo=github)](https://github.com/meridianmindx/meridian-mcp-deploy)
+[![Meridian Context Compression](https://img.shields.io/badge/Meridian_Context_Compression-22x_token_reduction-green?logo=github)](https://github.com/meridianmindx/meridian-context-compression?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
+[![Meridian CrewAI Deploy](https://img.shields.io/badge/Meridian_CrewAI_Deploy-1_command_deployment-orange?logo=github)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
+[![Meridian MCP Deploy](https://img.shields.io/badge/Meridian_MCP_Deploy-Auto_config_purple?logo=github)](https://github.com/meridianmindx/meridian-mcp-deploy?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 
 </div>
 
@@ -44,9 +54,9 @@ This tool is part of the **Meridian Tooling Suite** - a collection of AI deploym
 
 | Tool | Purpose | Key Feature |
 |------|---------|-------------|
-| **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression)** | Reduce LLM token usage | 22x compression for CrewAI workflows |
-| **[meridian-crewai-deploy-orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)** | Deploy CrewAI agents | One-command Docker & cloud deployment |
-| **[meridian-mcp-deploy](https://github.com/meridianmindx/meridian-mcp-deploy)** | Deploy MCP servers | Automatic configuration & CI/CD |
+| **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** | Reduce LLM token usage | 22x compression for CrewAI workflows |
+| **[meridian-crewai-deploy-orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** | Deploy CrewAI agents | One-command Docker & cloud deployment |
+| **[meridian-mcp-deploy](https://github.com/meridianmindx/meridian-mcp-deploy?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)** | Deploy MCP servers | Automatic configuration & CI/CD |
 
 ### 📦 Install All Meridian Tools
 
@@ -66,7 +76,7 @@ These tools are designed to work together:
 
 **If this tool saves you money on LLM API costs, please star it!** Stars help other developers discover useful tools.
 
-[![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_this_repo-black?style=for-the-badge&logo=github)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
+[![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_this_repo-black?style=for-the-badge&logo=github)](https://github.com/meridianmindx/meridian-context-compression/stargazers?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 
 </div>
 
@@ -224,12 +234,12 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Part of the Meridian Tooling Suite** – Complementary tools for AI agent development:
 
-### 🚀 [Meridian MCP Deploy Framework](https://github.com/meridianmindx/meridian-mcp-deploy)
+### 🚀 [Meridian MCP Deploy Framework](https://github.com/meridianmindx/meridian-mcp-deploy?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 Deploy MCP servers with one command. Save hours of manual Docker configuration for Model Context Protocol (MCP) servers.
 
 **Perfect companion for context compression:** Deploy your MCP servers and optimize their token usage with compression.
 
-### 🚀 [Meridian CrewAI Agent Deployment Orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)
+### 🚀 [Meridian CrewAI Agent Deployment Orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 Deploy CrewAI agents anywhere with one command. Automatically analyze agent codebases and generate optimized Docker configurations for cloud deployment.
 
 **Works great with compression:** Deploy your CrewAI agents and reduce their token usage by 22x.
@@ -259,7 +269,7 @@ pip install meridian-crewai-deploy-orchestrator
 
 **If meridian-context-compression saves you money on LLM API costs, please consider starring it on GitHub!**
 
-[![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_this_repo-black?style=for-the-badge&logo=github)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
+[![Star us on GitHub](https://img.shields.io/badge/-⭐_Star_this_repo-black?style=for-the-badge&logo=github)](https://github.com/meridianmindx/meridian-context-compression/stargazers?utm_source=star_campaign&utm_medium=github&utm_campaign=meridian_suite)
 
 *Stars help other developers discover tools that reduce AI development costs.*
 
