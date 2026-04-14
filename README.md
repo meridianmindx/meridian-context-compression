@@ -1,49 +1,63 @@
-<!-- schema.org metadata -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareSourceCode",
-  "name": "meridian-context-compression",
-  "description": "Reduce LLM token usage 22x: Cut OpenAI/Anthropic API costs by 80% with intelligent context compression for AI workflows.",
-  "url": "https://github.com/meridianmindx/meridian-context-compression",
-  "codeRepository": "https://github.com/meridianmindx/meridian-context-compression",
-  "programmingLanguage": "Python",
-  "license": "https://opensource.org/licenses/MIT",
-  "dateCreated": "2026-04-06",
-  "dateModified": "2026-04-14",
-  "keywords": [
-    "context compression",
-    "LLM",
-    "token optimization",
-    "OpenAI",
-    "Anthropic",
-    "API cost reduction",
-    "AI workflows",
-    "prompt engineering"
-  ],
-  "author": {
-    "@type": "Organization",
-    "name": "Meridian Mind",
-    "url": "https://github.com/meridianmindx"
-  }
-}
-</script>
-
 # 🚀 Meridian Context Compression
 
 <div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression?style=for-the-badge)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
+[![Meridian Tooling](https://img.shields.io/badge/Meridian_Tooling-Suite-blue?logo=github)](https://github.com/meridianmindx)
+[![Context Compression](https://img.shields.io/badge/Context_Compression-22x_Reduction-green)](https://github.com/meridianmindx/meridian-context-compression)
 
 [![PyPI version](https://img.shields.io/pypi/v/meridian-context-compression.svg)](https://pypi.org/project/meridian-context-compression/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml/badge.svg)](https://github.com/meridianmindx/meridian-context-compression/actions/workflows/build.yml)
 [![PyPI downloads](https://img.shields.io/pypi/dm/meridian-context-compression.svg)](https://pypi.org/project/meridian-context-compression/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/meridianmindx/meridian-context-compression?style=social&label=Star)](https://github.com/meridianmindx/meridian-context-compression/stargazers)
-[![Meridian Tooling](https://img.shields.io/badge/Part_of-Meridian_Tooling_Suite-3498db)](https://github.com/meridianmindx)
 
-<!-- Star CTA -->
-<div>
+## ⭐ Star This Repository
 
-## ⭐ Star This Repo!
+**If this tool saves you money on LLM API costs, please star it!**
+
+**Why star?**
+- Shows the project is actively used and maintained
+- Helps other developers discover useful tools
+- Supports open-source sustainability
+- Encourages more features and improvements
+
+**Already helped?** Click the star button at the top right! ⭐
+
+## 🏠 Meridian Tooling Family
+
+This tool is part of the **Meridian Tooling Suite** - a collection of AI deployment and optimization tools:
+
+<div align="center">
+
+[![Meridian Context Compression](https://img.shields.io/badge/Meridian_Context_Compression-22x_token_reduction-green?logo=github)](https://github.com/meridianmindx/meridian-context-compression)
+[![Meridian CrewAI Deploy](https://img.shields.io/badge/Meridian_CrewAI_Deploy-1_command_deployment-orange?logo=github)](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)
+[![Meridian MCP Deploy](https://img.shields.io/badge/Meridian_MCP_Deploy-Auto_config_purple?logo=github)](https://github.com/meridianmindx/meridian-mcp-deploy)
+
+</div>
+
+### 🔗 Related Tools
+
+| Tool | Purpose | Key Feature |
+|------|---------|-------------|
+| **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression)** | Reduce LLM token usage | 22x compression for CrewAI workflows |
+| **[meridian-crewai-deploy-orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)** | Deploy CrewAI agents | One-command Docker & cloud deployment |
+| **[meridian-mcp-deploy](https://github.com/meridianmindx/meridian-mcp-deploy)** | Deploy MCP servers | Automatic configuration & CI/CD |
+
+### 📦 Install All Meridian Tools
+
+```bash
+# Install the complete Meridian Tooling Suite
+pip install meridian-context-compression meridian-crewai-deploy-orchestrator meridian-mcp-deploy
+```
+
+### 🤝 Cross-Tool Integration
+
+These tools are designed to work together:
+1. Use **context-compression** to optimize your agent prompts
+2. Use **crewai-deploy-orchestrator** to containerize and deploy
+3. Use **mcp-deploy** to set up MCP servers for your deployed agents
+
+---
 
 **If this tool saves you money on LLM API costs, please star it!** Stars help other developers discover useful tools.
 
@@ -76,7 +90,6 @@
 - [Community](#-community)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [See Also](#-see-also)
 
 ## 🔥 Why This Tool Matters
 
@@ -96,7 +109,6 @@ pip install meridian-context-compression
 # Compress any text
 python -c "from meridian_context_compression import compress; text='Your long text here...'; compressed=compress(text, ratio=0.5); print(f'Reduced from {len(text)} to {len(compressed)} tokens')"
 ```
-
 ## 🎯 Features
 
 | Feature | Description | Status |
