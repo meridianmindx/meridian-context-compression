@@ -1,3 +1,34 @@
+<!-- schema.org metadata -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "meridian-context-compression",
+  "description": "Reduce LLM token usage 22x: Cut OpenAI/Anthropic API costs by 80% with intelligent context compression for AI workflows.",
+  "url": "https://github.com/meridianmindx/meridian-context-compression",
+  "codeRepository": "https://github.com/meridianmindx/meridian-context-compression",
+  "programmingLanguage": "Python",
+  "license": "https://opensource.org/licenses/MIT",
+  "dateCreated": "2026-04-06",
+  "dateModified": "2026-04-14",
+  "keywords": [
+    "context compression",
+    "LLM",
+    "token optimization",
+    "OpenAI",
+    "Anthropic",
+    "API cost reduction",
+    "AI workflows",
+    "prompt engineering"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Meridian Mind",
+    "url": "https://github.com/meridianmindx"
+  }
+}
+</script>
+
 # 🚀 Meridian Context Compression
 
 <div align="center">
